@@ -1,6 +1,10 @@
 
 # QMNIST Neural Network Model Training and Hyperparameter Tuning
 
+## Access Issue 
+As the file is large if you can not access it, click this link : https://nbviewer.org/github/Vaishnavi-mocherla/QMNIST_NeuralNet_Training_and_Tuning/blob/main/Code_Notebook.ipynb 
+
+
 ## Overview
 
 This project trains and optimizes a neural network on the QMNIST dataset to classify digits. The steps include model setup, performance evaluation, modifications, and hyperparameter tuning to achieve improved accuracy.
