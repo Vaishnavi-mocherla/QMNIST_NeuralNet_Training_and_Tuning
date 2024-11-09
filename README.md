@@ -1,6 +1,4 @@
-# Creating README content based on the previous structure for copy-pasting into a GitHub README file
 
-readme_content = """
 # QMNIST Neural Network Model Training and Hyperparameter Tuning
 
 ## Overview
