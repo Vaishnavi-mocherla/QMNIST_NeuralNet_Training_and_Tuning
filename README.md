@@ -12,7 +12,7 @@ This project trains and optimizes a neural network on the QMNIST dataset to clas
    - Prepared data loaders for training and testing.
 
 2. **Initial Model Setup**:
-   - Built a base neural network model following the provided tutorial.
+   - Built a base neural network model from scratch.
    - Measured baseline prediction accuracy on training and test datasets.
 
 3. **Model Modification**:
@@ -26,9 +26,6 @@ This project trains and optimizes a neural network on the QMNIST dataset to clas
    - Experimented with optimizers, loss functions, dropout rates, and activation functions.
    - Analyzed the performance impact of each adjustment.
 
-6. **Backpropagation by Hand**:
-   - Conducted one round of forward and backward propagation manually on a small network, illustrating gradients calculation by hand.
-
 ## Results
 
 - **Base Model Accuracy**: (Include your base accuracy results).
@@ -37,7 +34,7 @@ This project trains and optimizes a neural network on the QMNIST dataset to clas
 
 ## Conclusion
 
-Summarize your findings, including insights from model modifications and hyperparameter tuning, as well as the backpropagation demonstration.
+Summarized the findings, including insights from model modifications and hyperparameter tuning.
 
 ## Requirements
 
